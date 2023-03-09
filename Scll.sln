@@ -8,6 +8,7 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "k8s", "k8s", "{619EF030-F859-4859-8D99-A4708169A90C}"
 	ProjectSection(SolutionItems) = preProject
 		k8s\appdeploy.yaml = k8s\appdeploy.yaml
+		k8s\configure-rbac-permissions.md = k8s\configure-rbac-permissions.md
 		k8s\k8s-namespace.yaml = k8s\k8s-namespace.yaml
 		k8s\sa-role.yaml = k8s\sa-role.yaml
 		k8s\secretai.yaml = k8s\secretai.yaml
