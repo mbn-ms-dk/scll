@@ -7,7 +7,6 @@ This is a quick guide.
 
 ### Prerequisite
 
-* [Application Insights for ASP.NET Core](https://github.com/Microsoft/ApplicationInsights-aspnetcore)
 * [Docker Containers](https://www.docker.com/)
 * [Kubernetes](https://kubernetes.io/)
 
