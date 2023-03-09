@@ -1,0 +1,6 @@
+kind: Namespace
+apiVersion: v1
+metadata:
+  name: aik8s-demo
+  labels:
+    name: aik8s-demo
