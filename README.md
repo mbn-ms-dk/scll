@@ -1,6 +1,8 @@
 # scll
 Lunch and Learn demo project
 
+Showing Application Insights and Application Insights Kubernetes
+
 ## Get Started
 
 This is a quick guide.
